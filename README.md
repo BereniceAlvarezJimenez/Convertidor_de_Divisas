@@ -1,2 +1,2 @@
-# Convertidor_de_Divisas
-Tarea
+# Ejercicio I: Convertidor de Divisas
+## Autor: Berenice Álvarez Jiménez
